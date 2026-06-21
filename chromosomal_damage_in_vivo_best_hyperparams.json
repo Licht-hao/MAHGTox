@@ -1,0 +1,18 @@
+{
+  "lr": 0.00014155334704959034,
+  "weight_decay": 0.0002339141255875006,
+  "batch_size": 16,
+  "hidden_dim": 256,
+  "num_layers": 3,
+  "dropout": 0.28353666498516517,
+  "gnn_hidden": 64,
+  "gnn_heads": 8,
+  "gnn_dropout": 0.4443175083684091,
+  "trans_d_model": 128,
+  "trans_nhead": 2,
+  "trans_num_layers": 2,
+  "trans_dropout": 0.215894508759054,
+  "fusion_attn_layers": 1,
+  "fusion_num_heads": 4,
+  "gamma": 0.429648521784147
+}
